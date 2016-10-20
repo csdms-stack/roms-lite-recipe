@@ -13,7 +13,7 @@ requirements:
     - python
     - gcc
     - libgfortran
-    - mpich2
+    - mpich
     - libnetcdf
     - netcdf-fortran
 
@@ -22,7 +22,7 @@ requirements:
     - libnetcdf
     - netcdf-fortran
     - libgfortran
-    - mpich2
+    - mpich
 
 build:
   number: 0
