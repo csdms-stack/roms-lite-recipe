@@ -15,12 +15,12 @@ requirements:
     - libgfortran
     - mpich2
     - libnetcdf
-    - netcdff
+    - netcdf-fortran
 
   run:
     - python
     - libnetcdf
-    - netcdff
+    - netcdf-fortran
     - libgfortran
     - mpich2
 
